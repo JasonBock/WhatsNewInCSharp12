@@ -1,0 +1,11 @@
+<Project>
+	<PropertyGroup>
+		<AnalysisMode>all</AnalysisMode>
+		<EnablePreviewFeatures>true</EnablePreviewFeatures>
+		<LangVersion>preview</LangVersion>
+		<TargetFramework>net7.0</TargetFramework>
+		<TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+</Project>
